@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Capital Radiology - Use Case Diagram (New Context + DFD L1)" id="Kd1ubY9NOVLiY49DJiwe">
+    <mxGraphModel dx="1737" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Puiszb49GOyzGS22SWj0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;container=1;labelBackgroundColor=#6CFFF2;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-150" width="1100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-2" value="1. User Authentication &amp; Registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="370" y="170.00219512195122" width="300" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-3" value="2. Appointment Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="370" y="239.99536585365854" width="300" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-4" value="4. Patient Profile Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="390" y="369.9968292682927" width="300" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-5" value="7. Billing &amp; Payments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="400" y="580.0019512195122" width="260" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-7" value="3. Notification Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="380" y="309.99853658536585" width="300" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-8" value="5. MRI Scans Management (PACS)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="360" y="446" width="340" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-9" value="Access Stored Images (PACS)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="400" y="730.0048780487806" width="280" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-12" value="8. System Administration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="400" y="651.9956097560976" width="260" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-10" value="6. Report Generation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="400" y="509.9982926829269" width="260" height="48.29268292682927" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MRI Online Bookimg System&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Puiszb49GOyzGS22SWj0-1">
+          <mxGeometry x="370" y="60" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-13" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-14" value="Radiologist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-15" value="Technician" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="236" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-16" value="Admin Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="296" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-17" value="PACS System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-18" value="Email/SMS Services" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="112" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-19" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-13" target="Puiszb49GOyzGS22SWj0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-20" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-13" target="Puiszb49GOyzGS22SWj0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-21" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-13" target="Puiszb49GOyzGS22SWj0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-22" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-13" target="Puiszb49GOyzGS22SWj0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-24" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-14" target="Puiszb49GOyzGS22SWj0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-25" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-14" target="Puiszb49GOyzGS22SWj0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-26" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-15" target="Puiszb49GOyzGS22SWj0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-27" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-16" target="Puiszb49GOyzGS22SWj0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-28" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-16" target="Puiszb49GOyzGS22SWj0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-30" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-8" target="Puiszb49GOyzGS22SWj0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-31" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-9" target="Puiszb49GOyzGS22SWj0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-32" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-7" target="Puiszb49GOyzGS22SWj0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Puiszb49GOyzGS22SWj0-33" value="" style="endArrow=none;" edge="1" parent="1" source="Puiszb49GOyzGS22SWj0-16" target="Puiszb49GOyzGS22SWj0-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="545" as="sourcePoint" />
+            <mxPoint x="1159" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
